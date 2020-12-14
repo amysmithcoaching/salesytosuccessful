@@ -1,0 +1,140 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+}
+
+.business-builder {
+    border: 2px;
+    border-style: solid;
+    color: #f9b233
+}
+
+/* .lady {
+    height: 60%;
+    width: 60%
+} */
+
+.top-img {
+    height: auto;
+    width: 80%
+}
+.photo-text {
+    color: black;
+}
+
+.list-container {
+  
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+}
+
+.btn-primary{
+    background-color: #456A87;
+    border-color: #456A87;
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+}
+
+
+.pink {
+    color: #FF6367
+}
+
+
+.bold {
+    font-weight: bold;
+    font-size: large;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.learn {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.selling {
+    font-size: 40px;
+}
+
+.bio {
+    line-height: 1.5;
+}
+
+.mini {
+    font-size: 20px;
+}
+
+.amy {
+    height: auto;
+    width: 70%;
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+-webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+}
+
+#demo {
+    -webkit-box-shadow: 0px 8px 18px 3px rgba(0,0,0,0.39); 
+    box-shadow: 0px 8px 18px 3px rgba(0,0,0,0.39);
+    }
+
+ul.first {
+  list-style: none;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.strike {
+    text-decoration:line-through;
+}
+
+ul.first li:before {
+  content: '✓';
+  color: white
+}
+
+ul.blue {
+    list-style: none;
+    
+  }
+  
+  ul.blue li:before {
+    content: '✓';
+    color: #456A87;
+   
+  }
+
+  li span {
+    position: relative;
+    left: 10px;
+  }
+
+.bottom-container {
+    background-color: #456A87;
+    color: white;
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+}
+
+.question {
+    background-color: gray;
+    color: white;
+    -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+}
+
+.color-blue {
+    color: #456A87
+}
+
+.color-yellow {
+    color: #f9B233
+}
